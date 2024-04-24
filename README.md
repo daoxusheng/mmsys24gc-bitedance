@@ -5,7 +5,9 @@ The official repository of the challenge can be found at [MMSys'24](https://2024
 
 Please note that the code does not meet the standards required for real-world production use, and you should consider this a warning. We do not guarantee or accept responsibility for any potential, indirect, special, incidental, or consequential damages arising from the use of this repository.
 
-If you find our work useful or have any issues, please cite our paper. You can contact me at daoxushen[at]gmail.com.
+If you have any issues, PR is welcomed and you may also contact me at daoxushen[at]gmail.com.
+
+If you find our work useful, please cite our paper as a reference.
 
 ## Cite
 
